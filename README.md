@@ -41,8 +41,7 @@ Deze extensie maakt het mogelijk om snel gebruikers te skippen op basis van gend
 ---
 
 ### 🎞️ GIF Preview
-![Demo GIF](demo.mp4)  
-*(optioneel – plaats `demo.gif` in de root van je repo voor een korte preview)*
+[Demo Video](demo.mp4)  
 
 ---
 
