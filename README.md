@@ -40,7 +40,7 @@ Deze extensie maakt het mogelijk om snel gebruikers te skippen op basis van gend
 
 ---
 
-### 🎞️ GIF Preview
+### 🎞️ Video Preview
 [Demo Video](demo.mp4)  
 
 ---
