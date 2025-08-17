@@ -1,6 +1,6 @@
 # Skibbel Skipper Extension
 
-Een handige browserextensie voor [Skibbel](https://www.skibbel.com), een chat-2-chat platform waar je niet alleen kunt chatten, maar ook bellen, foto's sturen en meer. Deze extensie maakt het mogelijk om snel gebruikers te skippen op basis van gender of leeftijd.
+Een handige browserextensie voor [Skibbel](https://www.skibbel.com), een 18+ chat-2-chat platform waar je niet alleen kunt chatten, maar ook bellen, foto's sturen en meer. Deze extensie maakt het mogelijk om snel gebruikers te skippen op basis van gender of leeftijd.
 
 ---
 
@@ -32,10 +32,16 @@ Een handige browserextensie voor [Skibbel](https://www.skibbel.com), een chat-2-
 
 ## Gebruik
 
-1. Open de Skibbel-website en log in.  
+1. Open de Skibbel-website (18+) en log in.  
 2. Klik op de extensie in je browserbalk om de popup te openen.  
 3. Stel je voorkeuren in voor gender en leeftijd.  
 4. De extensie skip automatisch de gebruikers die niet voldoen aan je criteria.
+
+---
+
+## Belangrijk
+
+Skibbel is bedoeld voor gebruikers van 18 jaar en ouder. Zorg ervoor dat je de wettelijke minimumleeftijd respecteert bij gebruik van het platform en deze extensie.
 
 ---
 
@@ -44,3 +50,7 @@ Een handige browserextensie voor [Skibbel](https://www.skibbel.com), een chat-2-
 Bijdragen zijn welkom! Fork de repository en stuur een pull request met je verbeteringen of nieuwe functies.
 
 ---
+
+## Licentie
+
+MIT License © russiaisthebest
