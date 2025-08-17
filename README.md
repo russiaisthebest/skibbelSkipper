@@ -44,7 +44,3 @@ Een handige browserextensie voor [Skibbel](https://www.skibbel.com), een chat-2-
 Bijdragen zijn welkom! Fork de repository en stuur een pull request met je verbeteringen of nieuwe functies.
 
 ---
-
-## Licentie
-
-MIT License © [Jouw Naam]
